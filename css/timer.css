@@ -1,0 +1,16 @@
+.timer {
+    display: inline-block;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    background: #fff;
+    padding: 3%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 999;    
+    transform: translate(-50%, -50%);
+}
+.time {
+    color: #f00;
+    font-weight: bold;
+}
